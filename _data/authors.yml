@@ -1,11 +1,11 @@
-casper:
-  username: casper
-  name: Casper McFadden
+brightdown:
+  username: brightdown
+  name: brightdown McFadden
   location: Maine, USA
   url_full: http://jekyller.github.io/jasper/
   url: jekyller.github.io/jasper
-  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
-  assets: assets/images/casper.png
+  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, brightdown.
+  assets: assets/images/logo.png
 lewis:
   username: lewis
   name: Lewis Carroll
