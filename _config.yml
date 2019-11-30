@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Bright-Down Dev Blog'
-description: "PC Game dev, ML, Backend"
+name: 'I'm Hyunseo Park, a Game Developer at Southpaw Games'
+description: "'박현서' 게임 개발자 입니다. 사우스포 게임즈에서 일합니다."
 
 short_url: "parkhyunseo.github.io"
 google_analytics: UA-69281367-1
