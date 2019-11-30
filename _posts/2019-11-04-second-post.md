@@ -6,7 +6,7 @@ title: 테스트
 date: 2019-11-04 01:01:28
 tags: fables fiction
 subclass: 'post tag-test tag-content'
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 author: parkhyuseo
 categories: 알고리즘
 ---

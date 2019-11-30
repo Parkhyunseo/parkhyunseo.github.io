@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Bright-Down Dev Blog'
+description: "PC Game dev, ML, Backend"
 
 short_url: "parkhyunseo.github.io"
 google_analytics: UA-69281367-1
@@ -45,8 +45,8 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
-repo: jasper
+username: parkhyunseo
+repo: "parkhyunseo.github.io"
 branch: master
 relative_source: ../
 destination: ../
