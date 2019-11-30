@@ -1,6 +1,13 @@
 ---
-title: ""
-date: 2019-11-04 01:01:28 -0400
+layout: post
+cover: 'assets/images/cover7.jpg'
+navigation: True
+title: 테스트
+date: 2019-11-04 01:01:28
+tags: fables fiction
+subclass: 'post tag-test tag-content'
+logo: 'assets/images/ghost.png'
+author: parkhyuseo
 categories: 알고리즘
 ---
 
