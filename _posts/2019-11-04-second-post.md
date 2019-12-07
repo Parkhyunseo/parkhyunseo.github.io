@@ -4,10 +4,10 @@ cover: 'assets/images/cover7.jpg'
 navigation: True
 title: 테스트
 date: 2019-11-04 01:01:28
-tags: fables fiction
+tags: programmers 완전탐색
 subclass: 'post tag-test tag-content'
 logo: 'assets/images/logo.png'
-author: brightdown
+author: parkhyunseo
 categories: 알고리즘
 ---
 

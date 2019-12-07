@@ -7,11 +7,12 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'I'm Hyunseo Park, a Game Developer at Southpaw Games'
-description: "'박현서' 게임 개발자 입니다. 사우스포 게임즈에서 일합니다."
+name: "'박현서' 게임 개발자 입니다. "
+description: "working at Southpaw Games"
 
-short_url: "parkhyunseo.github.io"
+short_url: "parkhyunseo.github.io/"
 google_analytics: UA-69281367-1
+
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
@@ -48,8 +49,8 @@ lsi: false
 username: parkhyunseo
 repo: "parkhyunseo.github.io"
 branch: master
-relative_source: ../
-destination: ../
+relative_source: ../parkhyunseo.github.io/
+destination: ../parkhyunseo-pages/
 production_url:  https://parkhyunseo.github.io/
 source_url:  https://github.com/Parkhyunseo/parkhyunseo.github.io
 
